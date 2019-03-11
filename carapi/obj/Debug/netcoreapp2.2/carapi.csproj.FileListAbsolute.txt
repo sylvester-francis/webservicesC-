@@ -1,0 +1,14 @@
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/bin/Debug/netcoreapp2.2/carapi.deps.json
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/bin/Debug/netcoreapp2.2/carapi.runtimeconfig.json
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/bin/Debug/netcoreapp2.2/carapi.runtimeconfig.dev.json
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/bin/Debug/netcoreapp2.2/carapi.dll
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/bin/Debug/netcoreapp2.2/carapi.pdb
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.csprojAssemblyReference.cache
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.csproj.CoreCompileInputs.cache
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.RazorAssemblyInfo.cache
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.RazorAssemblyInfo.cs
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.AssemblyInfoInputs.cache
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.AssemblyInfo.cs
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.RazorTargetAssemblyInfo.cache
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.dll
+/home/sylvester/Desktop/WebServices-Assignment4/car_webservice/carapi/obj/Debug/netcoreapp2.2/carapi.pdb
